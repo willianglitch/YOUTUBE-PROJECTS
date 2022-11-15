@@ -1,0 +1,10 @@
+@media (max-width: 300px){
+    .card{
+        height: 220px;
+        width: 220px;
+    }
+    .card img{
+        animation: rotate 7s linear infinite;
+        height: 200px;
+    }
+}

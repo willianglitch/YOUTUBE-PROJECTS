@@ -1,0 +1,37 @@
+.container{
+    max-width: 1000px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container h1{
+    margin-bottom: 20px;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: #d28fdb;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.container h1:hover{
+    color: #e4bee9;
+}
+.card{
+    height: 320px;
+    width: 320px;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 8px solid #868686;
+    transition: 2s ease linear;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card:hover{
+    border-color: #d28fdb;
+}
+.card img{
+    /* animation: rotate 7s linear infinite; */
+}
