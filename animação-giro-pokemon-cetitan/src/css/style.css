@@ -33,5 +33,5 @@
     border-color: #d28fdb;
 }
 .card img{
-    /* animation: rotate 7s linear infinite; */
+    animation: rotate 7s linear infinite;
 }
