@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Animação-giro-pokemon-cetitan procurar demonstrar os efeitos de iluminação através de uma lâmpada .
 
-[🔗 Acesse aqui](https://idyllic-biscuit-81793c.netlify.app)
+[🔗 Acesse aqui](https://tourmaline-heliotrope-460145.netlify.app)
 
 
 ## :memo: Licença
