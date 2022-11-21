@@ -1,10 +1,17 @@
-@media (max-width: 300px){
-    .card{
-        height: 220px;
-        width: 220px;
+@media (max-width: 400px){
+    .container .card{
+        height: 258px;
+        width: 258px;
+        background: #FFF;
+        border-radius: 50%;
+        border: solid 6px #929090;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        animation: rotate 8s linear infinite;
+        transition: 2s ease;
     }
-    .card img{
-        animation: rotate 7s linear infinite;
-        height: 200px;
+    .container .card img{
+        height: 220px;
     }
 }
