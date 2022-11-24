@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Animação-giro-pokemon-cetitan procurar demonstrar os efeitos de iluminação através de uma lâmpada .
+Animação-giro-pokemon-cetitan é um projeto simples que demonstrar como fazer uma animação simples .
 
 [🔗 Acesse aqui](https://tourmaline-heliotrope-460145.netlify.app)
 
